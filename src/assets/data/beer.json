@@ -1,0 +1,52 @@
+[
+    {   "id": "1",
+        "cerveza":{
+            "name": "WIESSBIER",
+            "composition": "Cerveza de trigo alemana turbia.",
+            "detalle": "Refrescante y seco con alta carbonatación final con una sensasión cremosa en boca con notas a banana y clavo de olor.",
+            "ABV": "4.8° ABV",
+            "picture1": "weissbier/1.jpg",
+            "picture2": "weissbier/2.jpg"
+        }        
+    },
+     {  "id": "2",
+        "cerveza":{
+            "name": "PORTER",
+            "composition": "Cerveza negra con reflejos rubí.",
+            "detalle": "Moderadamente fuerte el sabor a malta con carácteristicas ligeramente quemadas de sabores a chocolate y café, un final seco a medio dulce.",
+            "ABV": "5.2° ABV",
+            "picture1": "weissbier/1.jpg",
+            "picture2": "./weissbier/2.jpg"
+        }        
+    },
+    {  "id": "3",
+        "cerveza":{
+            "name": "IPA",
+            "composition": "Cerveza pálida anaranjada con impactante sabor, alta graduación alcohólica con presencia de lúpulo.",
+            "detalle": "Aroma a lúpulo floral y sabor a malta con amargor moderado y un sensacional final en boca un poco seco con persistencia del amargor en el retrogusto.",
+            "ABV": "6° ABV",
+            "picture1": "./weissbier/1.jpg",
+            "picture2": "./weissbier/2.jpg"
+        }        
+    },
+    {  "id": "4",
+        "cerveza":{
+            "name": "AMBER ALE",
+            "composition": "Cerveza color ambar y cobrizo-marrón.",
+            "detalle": "Espuma moderada, lupulada, de intensidad moderada, con un sabor maltoso a caramelo, cuerpo y carbonatación medio",
+            "ABV": "4.8° ABV",
+            "picture1": "./weissbier/1.jpg",
+            "picture2": "./weissbier/2.jpg"
+        }        
+    },
+    {  "id": "5",
+        "cerveza":{
+            "name": "GOLDEN NAY",
+            "composition": "Cerveza con maracuyá.",
+            "detalle": "Cerveza pálida anaranjada, refrescante con alta carbonatación sabor intenso a maracuyá",
+            "ABV": "5° ABV",
+            "picture1": "./weissbier/1.jpg",
+            "picture2": "./weissbier/2.jpg"
+        }        
+    }
+]

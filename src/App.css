@@ -1,0 +1,42 @@
+.App {
+    background-color: black;
+    
+ }
+
+.misti{
+    width: 80%;
+    height: 350px;
+    padding: 10px 20%;
+    display:flex;
+    
+}
+
+.weissbier,
+.porter,
+.ipa,
+.amber,
+.golden{
+    width: 90%;
+    height: 150px;
+}
+
+h1{
+    color:lightgray;
+    
+}
+
+.tipos{
+    text-align: center;
+    padding: 20px 1px;
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+
+.card1,
+.card2,
+.card3,
+.card4,
+.card5{
+    width: 50%;
+}
